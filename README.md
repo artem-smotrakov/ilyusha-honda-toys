@@ -59,3 +59,4 @@ python3 image2hex.py --input=text.jpg --output=text.bin --black_threshold=40
 
 ## Demo
 
+![Demo](demo.gif)
